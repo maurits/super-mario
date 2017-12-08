@@ -1,0 +1,13 @@
+{
+  "name": "super-mario",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve ./public/"
+  },
+  "dependencies": {
+    "eslint": "^4.11.0",
+    "serve": "^6.4.1"
+  }
+}
